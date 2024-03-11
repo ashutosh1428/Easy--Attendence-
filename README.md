@@ -1,0 +1,1 @@
+This Android application is designed to help teachers to track students attendance in classes and other events. It uses SQLite database to store the students attendance data of each month separately, which can be accessed using Table Layout and updated from application user interface. It also uses Java Calendar class for updating the attendance data of a particular date.
